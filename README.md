@@ -20,7 +20,7 @@ Convertify is an online tool for unlimited and free multimedia conversion. Effor
 
 ## Contact
 
-For any questions or suggestions regarding Convertify, feel free to contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions regarding Convertify, feel free to contact the project maintainer at [aaryanprothi.m37a@gmail.com](mailto:your.email@example.com).
 
 ---
 
